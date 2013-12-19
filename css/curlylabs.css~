@@ -15,7 +15,7 @@ a:hover, a:focus {
 
 
 .jumbotron {
-  background: #eee url(../images/druplicon-bg.png) 0 0 no-repeat;
+  background: url(../images/druplicon-bg.png) 0 0 no-repeat;
 }
 
 .jumbotron h1 {
