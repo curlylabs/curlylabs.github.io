@@ -132,4 +132,7 @@ img {
   .jumbotron {
     border-bottom: 0;
   }
+  .col-lg-6 {
+    margin-bottom: 30px;
+  }
 }
